@@ -24,4 +24,6 @@ This repository contains the report and the corresponding codes of my research i
 
 - Wave_equation_otherBC.py: solves the 1d wave equation with Neumann boundary conditions
 
-- degenerate_wave.m: 
+- degenerate_wave.m: solves a wave equation $u_{tt}(t,x)+a(x) u_{xx}(t,x)=0$ on $x \in (0,1)$ in which the stiffness is $a(x)=4(2|x-0.5|)^{\alpha}$
+
+This work can also be found on the website of FAU, under my profile: https://dcn.nat.fau.eu/dania-sana/
